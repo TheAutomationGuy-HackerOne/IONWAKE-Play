@@ -23,7 +23,7 @@ High scores are stored in your browser (`localStorage`).
 
 Public **static** web build for GitHub Pages (`index.html`, `assets/`, etc.).
 
-Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE](https://github.com/TheAutomationGuy-HackerOne/IONWAKE)
+Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE-source](https://github.com/TheAutomationGuy-HackerOne/IONWAKE-source)
 
 ## License / credit
 
