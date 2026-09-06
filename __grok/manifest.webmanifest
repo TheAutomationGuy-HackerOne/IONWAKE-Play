@@ -1,12 +1,12 @@
 {
-  "name": "Grok App",
-  "short_name": "Grok App",
+  "name": "IONWAKE",
+  "short_name": "IONWAKE",
   "id": "/IONWAKE-Play/",
   "start_url": "/IONWAKE-Play/",
   "scope": "/IONWAKE-Play/",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#000000",
+  "theme_color": "#07060c",
   "icons": [
     {
       "src": "/IONWAKE-Play/__grok/icon-180.png",

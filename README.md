@@ -28,3 +28,5 @@ Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE-source](http
 ## License / credit
 
 Built with Grok Build. Game: IONWAKE.
+
+Synced T15 assets: `index-CEmqEAXh.js`, `routes-CERMEpWG.js`.
