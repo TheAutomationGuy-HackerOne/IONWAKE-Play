@@ -1,11 +1,30 @@
-# IONWAKE (playable)
+# IONWAKE
 
-Static web build of IONWAKE for GitHub Pages.
+Top-down arcade shooter. Clear enemy waves, grab power-ups, chase the high score.
 
-Play: https://theautomationguy-hackerone.github.io/IONWAKE-Play/
+## Play
 
-Source snapshot also lives in the private repo [IONWAKE](https://github.com/TheAutomationGuy-HackerOne/IONWAKE). Live Grok Build URL: https://trail-beam-dream-glow.grok.me
+**[Play IONWAKE on GitHub Pages](https://theautomationguy-hackerone.github.io/IONWAKE-Play/)**
+
+Also available on Grok Build: https://trail-beam-dream-glow.grok.me
 
 ## Controls
 
-Move with WASD or left stick. Aim with mouse or right stick. Fire is automatic. Esc or P pauses.
+| Input | Action |
+| ----- | ------ |
+| WASD or left stick | Move |
+| Mouse or right stick | Aim |
+| (automatic) | Fire |
+| Esc or P | Pause |
+
+High scores are stored in your browser (`localStorage`).
+
+## What’s in this repo
+
+Public **static** web build for GitHub Pages (`index.html`, `assets/`, etc.).
+
+Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE](https://github.com/TheAutomationGuy-HackerOne/IONWAKE)
+
+## License / credit
+
+Built with Grok Build. Game: IONWAKE.
