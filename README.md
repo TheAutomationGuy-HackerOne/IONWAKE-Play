@@ -21,7 +21,9 @@ High scores are stored in your browser (`localStorage`).
 
 ## What’s in this repo
 
-Public **static** web build for GitHub Pages (`index.html`, `assets/`, etc.).
+Public **static** web build for GitHub Pages (`index.html`, `assets/`, `help/`, `audio/`, etc.).
+
+Includes `/help` deep-link (`help/index.html` + root `404.html` SPA fallbacks).
 
 Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE-source](https://github.com/TheAutomationGuy-HackerOne/IONWAKE-source)
 
@@ -29,4 +31,4 @@ Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE-source](http
 
 Built with Grok Build. Game: IONWAKE.
 
-Synced T15 assets: `index-CEmqEAXh.js`, `routes-CERMEpWG.js`.
+Synced T19 assets: `index-rnaxFKhg.js`, `routes-BBm8db2a.js`, `HelpOverlay-DMqKlEBq.js`.
