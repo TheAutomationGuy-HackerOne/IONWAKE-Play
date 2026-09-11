@@ -1,34 +1,7 @@
-# IONWAKE
+# IONWAKE-Play
 
-Top-down arcade shooter. Clear enemy waves, grab power-ups, chase the high score.
+Public playable static build for GitHub Pages.
 
-## Play
+**Live:** https://theautomationguy-hackerone.github.io/IONWAKE-Play/
 
-**[Play IONWAKE on GitHub Pages](https://theautomationguy-hackerone.github.io/IONWAKE-Play/)**
-
-Also available on Grok Build: https://trail-beam-dream-glow.grok.me
-
-## Controls
-
-| Input | Action |
-| ----- | ------ |
-| WASD or left stick | Move |
-| Mouse or right stick | Aim |
-| (automatic) | Fire |
-| Esc or P | Pause |
-
-High scores are stored in your browser (`localStorage`).
-
-## What’s in this repo
-
-Public **static** web build for GitHub Pages (`index.html`, `assets/`, `help/`, `audio/`, etc.).
-
-Includes `/help` deep-link (`help/index.html` + root `404.html` SPA fallbacks).
-
-Private full Grok Build source: [TheAutomationGuy-HackerOne/IONWAKE-source](https://github.com/TheAutomationGuy-HackerOne/IONWAKE-source)
-
-## License / credit
-
-Built with Grok Build. Game: IONWAKE.
-
-Synced T19 assets: `index-rnaxFKhg.js`, `routes-BBm8db2a.js`, `HelpOverlay-DMqKlEBq.js`.
+T20 Help demos (real assets): bundles `index-B-bPSRyh.js` / `routes-CdpEVgOx.js` / `HelpOverlay-hA4tJxKG.js`.
